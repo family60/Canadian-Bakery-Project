@@ -1,0 +1,9 @@
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\bin\Debug\Lab03.exe
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\bin\Debug\Lab03.pdb
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\obj\Debug\Lab03.exe
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 3\Laba03 Kush Patel\Lab03\obj\Debug\Lab03.pdb

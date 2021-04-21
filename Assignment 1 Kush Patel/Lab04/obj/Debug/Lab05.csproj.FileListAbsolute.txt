@@ -1,0 +1,12 @@
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\bin\Debug\Lab03.exe.config
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\bin\Debug\Lab03.exe
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\bin\Debug\Lab03.pdb
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\bin\Debug\Cake Classes.dll
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\bin\Debug\Cake Classes.pdb
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\obj\Debug\Lab05.csprojAssemblyReference.cache
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\obj\Debug\Lab03.Form1.resources
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\obj\Debug\Lab05.csproj.GenerateResource.cache
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\obj\Debug\Lab05.csproj.CopyComplete
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\obj\Debug\Lab03.exe
+C:\Users\kushr\Desktop\Visual studio Community 2019\Week 6\Lab 05 Kush Patel\Lab04\obj\Debug\Lab03.pdb
